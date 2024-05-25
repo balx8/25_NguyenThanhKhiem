@@ -1,0 +1,18 @@
+﻿  main.cpp
+  OtoKhach.cpp
+D:\oop\ezyzip\QuanLiShowRoom\OtoKhach.cpp(37,14): warning C4244: 'return': conversion from 'double' to 'long', possible loss of data
+D:\oop\ezyzip\QuanLiShowRoom\OtoKhach.cpp(40,15): warning C4244: 'return': conversion from 'double' to 'long', possible loss of data
+D:\oop\ezyzip\QuanLiShowRoom\OtoKhach.cpp(43,15): warning C4244: 'return': conversion from 'double' to 'long', possible loss of data
+D:\oop\ezyzip\QuanLiShowRoom\OtoKhach.cpp(48,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\oop\ezyzip\QuanLiShowRoom\OtoKhach.cpp(51,24): warning C4305: '=': truncation from 'double' to 'float'
+D:\oop\ezyzip\QuanLiShowRoom\OtoKhach.cpp(57,53): warning C4244: 'return': conversion from 'float' to '__int64', possible loss of data
+  Ototai.cpp
+D:\oop\ezyzip\QuanLiShowRoom\Ototai.cpp(25,13): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\oop\ezyzip\QuanLiShowRoom\Ototai.cpp(27,31): warning C4244: 'return': conversion from 'float' to '__int64', possible loss of data
+D:\oop\ezyzip\QuanLiShowRoom\Ototai.cpp(30,31): warning C4244: 'return': conversion from 'float' to '__int64', possible loss of data
+D:\oop\ezyzip\QuanLiShowRoom\Ototai.cpp(36,15): warning C4244: 'return': conversion from 'double' to 'long', possible loss of data
+D:\oop\ezyzip\QuanLiShowRoom\Ototai.cpp(40,15): warning C4244: 'return': conversion from 'double' to 'long', possible loss of data
+  Showroom.cpp
+  Generating Code...
+  LINK : D:\oop\ezyzip\x64\Debug\QuanLiShowRoom.exe not found or not built by the last incremental link; performing full link
+  QuanLiShowRoom.vcxproj -> D:\oop\ezyzip\x64\Debug\QuanLiShowRoom.exe
